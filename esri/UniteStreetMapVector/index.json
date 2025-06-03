@@ -4,9 +4,7 @@
   "type": "indexedVector",
   "tileMap": "tilemap",
   "defaultStyles": "resources/styles",
-  "tiles": [
-    "https://dev-geoportal.dfs.un.org/unvt/VT/zxy/UniteStreetMapVector/{z}/{x}/{y}.pbf"
-  ],
+  "tiles": ["https://k96mz.xyz/unvt/VT-open/zxy/UniteStreetMapVector/{z}/{x}/{y}.pbf"],
   "initialExtent": {
     "xmin": -2.0037507842788246e7,
     "ymin": -2.0037508342787e7,

@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "sprite": "https://k96mz.xyz/sprite-rev/sprite_S",
+  "sprite": "https://k96mz.xyz/unvt/sprite-rev/sprite_S",
   "glyphs": "https://k96mz.xyz/unvt/font/{fontstack}/{range}.pbf",
   "sources": {
     "v": {
@@ -3497,7 +3497,7 @@
         "symbol-placement": "line",
         "symbol-spacing": 1000,
         "text-field": "{name}",
-        "text-font": ["sans"],
+        "text-font": ["NotoSans-Regular"],
         "text-optional": true,
         "text-size": 8.66667,
         "text-letter-spacing": 0.15
@@ -5147,7 +5147,7 @@
         "symbol-placement": "line",
         "symbol-spacing": 1000,
         "text-field": "{name}",
-        "text-font": ["sans"],
+        "text-font": ["NotoSans-Regular"],
         "text-optional": true,
         "text-size": 9.33333
       },
@@ -6563,7 +6563,7 @@
         "symbol-placement": "line",
         "symbol-spacing": 1000,
         "text-field": "{name}",
-        "text-font": ["sans"],
+        "text-font": ["NotoSans-Regular"],
         "text-optional": true,
         "text-size": 10
       },
@@ -6584,7 +6584,7 @@
         "symbol-placement": "line",
         "symbol-spacing": 1000,
         "text-field": "{name}",
-        "text-font": ["sans"],
+        "text-font": ["NotoSans-Regular"],
         "text-optional": true,
         "text-size": 10.6667
       },
@@ -8718,7 +8718,7 @@
       "id": "pt-place-osm-place-1-large",
       "layout": {
         "text-field": "{name}",
-        "text-font": ["NotoSansDisplay-SemiBold"],
+        "text-font": ["NotoSansDisplay-Medium"],
         "text-size": 11.3333,
         "text-anchor": "center",
         "text-optional": true
@@ -8776,7 +8776,7 @@
       "id": "pt-place-un-unmik-1-large",
       "layout": {
         "text-field": "{label_1}\n{label_2}",
-        "text-font": ["NotoSansDisplay-SemiBold"],
+        "text-font": ["NotoSansDisplay-Medium"],
         "text-size": 11.3333,
         "text-anchor": "center",
         "text-optional": true
@@ -8819,7 +8819,7 @@
       "id": "pt-place-un-global-1-large",
       "layout": {
         "text-field": "{placename1}",
-        "text-font": ["NotoSansDisplay-SemiBold"],
+        "text-font": ["NotoSansDisplay-Medium"],
         "text-size": 11.3333,
         "text-anchor": "center",
         "text-optional": true
@@ -8943,7 +8943,7 @@
       "layout": {
         "text-allow-overlap": true,
         "text-field": "{textstring}",
-        "text-font": ["sans"],
+        "text-font": ["NotoSans-Regular"],
         "text-optional": true,
         "text-size": {
           "stops": [
@@ -8987,7 +8987,7 @@
       "layout": {
         "text-allow-overlap": true,
         "text-field": "{textstring}",
-        "text-font": ["sans"],
+        "text-font": ["NotoSans-Regular"],
         "text-optional": true,
         "text-size": {
           "stops": [
