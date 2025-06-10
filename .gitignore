@@ -5,3 +5,4 @@ key
 config/default.hjson
 mbtiles/contour/
 mbtiles/UniteStreetMapVector/
+log
