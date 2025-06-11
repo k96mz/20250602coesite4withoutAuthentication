@@ -2,7 +2,6 @@
 package-lock.json
 node_modules
 key
-config/default.hjson
 mbtiles/contour/*.mbtiles
 mbtiles/UniteStreetMapVector/*.mbtiles
 log
